@@ -9,7 +9,7 @@
 import java.util.*
 
 fun main() {
-	assert(car(cons(3,4)) == 3)
+  assert(car(cons(3,4)) == 3)
   assert(cdr(cons(3,4)) == 4)
 }
 
